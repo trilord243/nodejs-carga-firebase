@@ -1,11 +1,12 @@
-#Cargar datos 
-npm install 
+# Cargar datos 
 
-Cambiar 
+`npm install`
+
+Cambiar con tus apis keys que te proporciona firestore el objeto firebaseConfig
 
 ```javascript
 const firebaseConfig = {}
 ```
-Con tus credenciales de firestore 
 
-node index.js
+
+`node  index.js`
